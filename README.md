@@ -1,1 +1,1 @@
-# Traffic-Symbols-Prediction
+# Traffic-Signs-Prediction
